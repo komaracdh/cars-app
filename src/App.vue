@@ -4,7 +4,9 @@
     <nav>
       <router-link to="/appCars">Cars App</router-link>
     </nav>
+    <router-view /> 
   </div>
+  
 </template>
 
 <script>
